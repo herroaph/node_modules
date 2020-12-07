@@ -1,0 +1,52 @@
+{
+  "_from": "steam-server-status",
+  "_id": "steam-server-status@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-HpJ4LEqduLt47tHAtNt4Szrn6p0=",
+  "_location": "/steam-server-status",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "steam-server-status",
+    "name": "steam-server-status",
+    "escapedName": "steam-server-status",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/steam-server-status/-/steam-server-status-1.0.2.tgz",
+  "_shasum": "1e92782c4a9db8bb78eed1c0b4db784b3ae7ea9d",
+  "_spec": "steam-server-status",
+  "_where": "C:\\Users\\Raphaël\\Desktop\\RETRO RP",
+  "author": {
+    "name": "Benjamin Dow",
+    "email": "benjamin.dow@gmail.com"
+  },
+  "bugs": {
+    "url": "http://github.com/bontakun/steam-server-status/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A steam server status library for node",
+  "engines": {
+    "node": ">= 0.8.5"
+  },
+  "homepage": "https://github.com/bontakun/steam-server-status#readme",
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ],
+  "main": "lib/steam-server-status",
+  "name": "steam-server-status",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bontakun/steam-server-status.git"
+  },
+  "version": "1.0.2"
+}

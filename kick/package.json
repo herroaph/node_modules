@@ -1,0 +1,111 @@
+{
+  "_args": [
+    [
+      "kick@1.7.0",
+      "C:\\Users\\Raphaël\\OneDrive\\DEV\\BOT\\CommandesBOT"
+    ]
+  ],
+  "_from": "kick@1.7.0",
+  "_id": "kick@1.7.0",
+  "_inBundle": false,
+  "_integrity": "sha512-v9lre7EBTFRNODth9nMK51hk7fA/Qew8QdokbCNuINN/s1duyzHu7VI0yXAU14SbQ2owMsejWC4zUCxqpDRQAg==",
+  "_location": "/kick",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "kick@1.7.0",
+    "name": "kick",
+    "escapedName": "kick",
+    "rawSpec": "1.7.0",
+    "saveSpec": null,
+    "fetchSpec": "1.7.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/kick/-/kick-1.7.0.tgz",
+  "_spec": "1.7.0",
+  "_where": "C:\\Users\\Raphaël\\OneDrive\\DEV\\BOT\\CommandesBOT",
+  "author": {
+    "name": "500Tech",
+    "email": "info@500tech.com"
+  },
+  "bin": {
+    "kick": "bin/kick"
+  },
+  "bugs": {
+    "url": "https://github.com/500tech/angular-kick/issues"
+  },
+  "contributors": [
+    {
+      "name": "Ilya Gelman",
+      "email": "ilyagelman@ilyagelman.com"
+    },
+    {
+      "name": "Adam Klein",
+      "email": "adam@500tech.com"
+    },
+    {
+      "name": "Nir Kaufman",
+      "email": "nir@500tech.com"
+    },
+    {
+      "name": "Maayan Glikser",
+      "email": "maayan@500tech.com"
+    }
+  ],
+  "dependencies": {
+    "app-module-path": "1.0.4",
+    "change-case": "2.3.0",
+    "cli-clear": "1.0.4",
+    "colors": "1.1.2",
+    "cpr": "0.4.3",
+    "did-you-mean": "0.0.1",
+    "fs-extra": "0.24.0",
+    "get-folder-size": "1.0.0",
+    "keypress": "0.2.1",
+    "opn": "3.0.2",
+    "portscanner": "1.0.0",
+    "progress": "1.1.8",
+    "readline-sync": "1.2.21",
+    "replace": "0.3.0",
+    "which": "1.2.0"
+  },
+  "description": "Kickstarter and generator for AngularJS based on ES6, webpack and best practices",
+  "devDependencies": {
+    "jasmine": "2.2.1",
+    "webpack": "1.12.1"
+  },
+  "engines": {
+    "node": ">=4.0"
+  },
+  "homepage": "http://angular-kick.com",
+  "keywords": [
+    "angular-kick",
+    "kick",
+    "generate",
+    "generator",
+    "boilerplate",
+    "angular",
+    "angularjs",
+    "kickstart",
+    "es6",
+    "angular cli",
+    "angular starter",
+    "starter",
+    "angularjs cli"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "name": "kick",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/500tech/angular-kick.git"
+  },
+  "scripts": {
+    "test": "node_modules/jasmine/bin/jasmine.js"
+  },
+  "version": "1.7.0"
+}

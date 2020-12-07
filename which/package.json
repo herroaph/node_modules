@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "which@1.2.0",
+      "C:\\Users\\Raphaël\\OneDrive\\DEV\\BOT\\CommandesBOT"
+    ]
+  ],
+  "_from": "which@1.2.0",
+  "_id": "which@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-pcjfWrx5L2zpZSyNnKjzqRt35Z0=",
+  "_location": "/which",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "which@1.2.0",
+    "name": "which",
+    "escapedName": "which",
+    "rawSpec": "1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "1.2.0"
+  },
+  "_requiredBy": [
+    "/kick"
+  ],
+  "_resolved": "https://registry.npmjs.org/which/-/which-1.2.0.tgz",
+  "_spec": "1.2.0",
+  "_where": "C:\\Users\\Raphaël\\OneDrive\\DEV\\BOT\\CommandesBOT",
+  "author": {
+    "name": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me"
+  },
+  "bin": {
+    "which": "bin/which"
+  },
+  "bugs": {
+    "url": "https://github.com/isaacs/node-which/issues"
+  },
+  "dependencies": {
+    "is-absolute": "^0.1.7"
+  },
+  "description": "Like which(1) unix command. Find the first instance of an executable in the PATH.",
+  "devDependencies": {
+    "mkdirp": "^0.5.0",
+    "rimraf": "^2.3.3",
+    "tap": "^2.0.0"
+  },
+  "homepage": "https://github.com/isaacs/node-which#readme",
+  "license": "ISC",
+  "main": "which.js",
+  "name": "which",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/node-which.git"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "version": "1.2.0"
+}

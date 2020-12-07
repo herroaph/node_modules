@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      "readline-sync@1.2.21",
+      "C:\\Users\\Raphaël\\OneDrive\\DEV\\BOT\\CommandesBOT"
+    ]
+  ],
+  "_from": "readline-sync@1.2.21",
+  "_id": "readline-sync@1.2.21",
+  "_inBundle": false,
+  "_integrity": "sha1-16DrBHLblIymlsDYES+xiDasjjo=",
+  "_location": "/readline-sync",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "readline-sync@1.2.21",
+    "name": "readline-sync",
+    "escapedName": "readline-sync",
+    "rawSpec": "1.2.21",
+    "saveSpec": null,
+    "fetchSpec": "1.2.21"
+  },
+  "_requiredBy": [
+    "/kick"
+  ],
+  "_resolved": "https://registry.npmjs.org/readline-sync/-/readline-sync-1.2.21.tgz",
+  "_spec": "1.2.21",
+  "_where": "C:\\Users\\Raphaël\\OneDrive\\DEV\\BOT\\CommandesBOT",
+  "author": {
+    "name": "anseki",
+    "url": "https://github.com/anseki"
+  },
+  "bugs": {
+    "url": "https://github.com/anseki/readline-sync/issues"
+  },
+  "description": "Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "homepage": "https://github.com/anseki/readline-sync",
+  "keywords": [
+    "readline",
+    "synchronous",
+    "prompt",
+    "question",
+    "password",
+    "keyboard",
+    "wait",
+    "block"
+  ],
+  "license": "MIT",
+  "main": "./lib/readline-sync.js",
+  "name": "readline-sync",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anseki/readline-sync.git"
+  },
+  "title": "readlineSync",
+  "version": "1.2.21"
+}
